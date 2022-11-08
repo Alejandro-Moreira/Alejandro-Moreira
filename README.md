@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alejandro-Moreira
+- 👀 I’m interested in  the programation  and data  bases about all kinds of languaje the programation.
+- 🌱 I’m currently learning  about programation and algorithms.
+- 💞️ I’m looking to collaborate on  codes or syntax the differents programs what is here.
+- 📫 How to reach me  by email: moreiramikel11@gmail.com.
