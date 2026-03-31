@@ -17,7 +17,7 @@
 Hola, soy **Alejandro Moreira**
 Desarrollador de software enfocado en construir aplicaciones web modernas, escalables y orientadas a la experiencia de usuario.
 
-Trabajo en soluciones de **E-commerce **, integrando:
+Trabajo en soluciones de **E-commerce**, integrando:
 
 * Arquitecturas SPA
 * Sistemas de autenticación robustos
