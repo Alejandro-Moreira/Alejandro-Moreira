@@ -7,7 +7,7 @@
 <!-- ⌨️ TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;E-Commerce+Specialist;React+%7C+Node.js+%7C+MySQL;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Developer;E-Commerce+Developer;React+%7C+Node.js+%7C+MySQL;Building+Web+Apps" />
 </p>
 
 ---
