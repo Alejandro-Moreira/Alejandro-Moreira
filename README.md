@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre mi:
 
 Hola, soy **Alejandro Moreira** 👋
 Desarrollador de software enfocado en construir aplicaciones web y orientadas a la experiencia de usuario.
